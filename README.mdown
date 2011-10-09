@@ -1,0 +1,4 @@
+## Resume
+
+ * add bullets to job section
+ * fix up job description
